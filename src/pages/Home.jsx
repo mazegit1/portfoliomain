@@ -63,7 +63,7 @@ const Home = () => {
         {/* Left Section */}
         <div className="hero-left md:w-1/2 mb-10 md:mb-0 flex flex-col items-center md:items-start text-center md:text-left">
           <h1 className="text-4xl font-bold mb-4">
-            Elias is a{' '}
+            Huseyn is a{' '}
             <span className="text-[#FCE694]">web designer</span> and{' '}
             <br />
             <span className="text-[#FCE694]">front-end developer</span>
