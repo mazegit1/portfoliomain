@@ -64,9 +64,9 @@ const Home = () => {
         <div className="hero-left md:w-1/2 mb-10 md:mb-0 flex flex-col items-center md:items-start text-center md:text-left">
           <h1 className="text-4xl font-bold mb-4">
             Huseyn is a{' '}
-            <span className="text-[#FCE694]">web designer</span> and{' '}
+            <span className="text-[#FCE694]">creative</span> {' '}
             <br />
-            <span className="text-[#FCE694]">front-end developer</span>
+            <span className="text-[#FCE694]">Junior front-end developer</span>
           </h1>
           <h3 className="text-lg text-gray-300 mb-6">
             He crafts responsive websites where technologies meet creativity
